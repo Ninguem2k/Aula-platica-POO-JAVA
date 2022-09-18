@@ -1,0 +1,70 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Faculdade",
+            "request": "launch",
+            "mainClass": "Faculdade.Faculdade",
+            "projectName": "JAVA - POO_21f9d6d1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Escola",
+            "request": "launch",
+            "mainClass": "Escola.Escola",
+            "projectName": "JAVA - POO_21f9d6d1"
+        },
+        {
+            "type": "java",
+            "name": "Launch ProjectLivro",
+            "request": "launch",
+            "mainClass": "ProjectLivro.ProjectLivro",
+            "projectName": "JAVA - POO_21f9d6d1"
+        },
+        {
+            "type": "java",
+            "name": "Launch UltraEmojiCombat",
+            "request": "launch",
+            "mainClass": "ultraemojicombat.UltraEmojiCombat",
+            "projectName": "JAVA - POO_21f9d6d1"
+        },
+        {
+            "type": "java",
+            "name": "Launch aula06",
+            "request": "launch",
+            "mainClass": "aula06.aula06",
+            "projectName": "JAVA - POO_21f9d6d1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Aula02",
+            "request": "launch",
+            "mainClass": "aula02.Aula02",
+            "projectName": "JAVA - POO_21f9d6d1"
+        },
+        {
+            "type": "java",
+            "name": "Launch Aula03",
+            "request": "launch",
+            "mainClass": "aula03.Aula03",
+            "projectName": "JAVA - POO_21f9d6d1"
+        },
+        {
+            "type": "java",
+            "name": "Launch alula5",
+            "request": "launch",
+            "mainClass": "aula04.alula5",
+            "projectName": "JAVA - POO_21f9d6d1"
+        }
+    ]
+}
