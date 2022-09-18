@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch youtube",
+            "request": "launch",
+            "mainClass": "youtube.youtube",
+            "projectName": "JAVA - POO_21f9d6d1"
+        },
+        {
+            "type": "java",
+            "name": "Launch aula13",
+            "request": "launch",
+            "mainClass": "aula13.aula13",
+            "projectName": "JAVA - POO_21f9d6d1"
+        },
+        {
+            "type": "java",
+            "name": "Launch aula12",
+            "request": "launch",
+            "mainClass": "aula12.aula12",
+            "projectName": "JAVA - POO_21f9d6d1"
+        },
+        {
+            "type": "java",
             "name": "Launch Faculdade",
             "request": "launch",
             "mainClass": "Faculdade.Faculdade",

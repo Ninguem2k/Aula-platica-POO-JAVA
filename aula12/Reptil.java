@@ -1,0 +1,32 @@
+package aula12;
+
+public class Reptil extends Animal {
+    private String corEscama;
+
+    @Override
+    public void locomover() {
+        System.out.println("Ratejando");
+
+    }
+
+    @Override
+    public void alimentar() {
+        System.out.println("comendo insetos");
+
+    }
+
+    @Override
+    public void emitirSom() {
+        System.out.println("Som de Reptil");
+
+    }
+
+    public String getCorEscama() {
+        return this.corEscama;
+    }
+
+    public void setCorEscama(String corEscama) {
+        this.corEscama = corEscama;
+    }
+
+}
